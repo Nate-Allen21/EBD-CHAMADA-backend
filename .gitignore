@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Runtime logs
+*.log
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Local environment overrides
+*.local.properties
+application-local.properties
