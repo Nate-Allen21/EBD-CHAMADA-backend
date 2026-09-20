@@ -17,8 +17,8 @@
     <description>EBD ADMIG RF II</description>
 
     <properties>
-        <java.version>21</java.version>
-        <maven.compiler.release>21</maven.compiler.release>
+        <java.version>25</java.version>
+        <maven.compiler.release>25</maven.compiler.release>
         <lombok.version>1.18.48</lombok.version>
     </properties>
 
